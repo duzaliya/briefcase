@@ -16,6 +16,7 @@ end
 
 begin
   rate = get_rate
+  puts "Текущий курс доллара - #{rate} руб."
 rescue SocketError
   puts "Не удалось подключиться к серверу. Какой сейчас курс доллара:"
   rate = gets.to_f
