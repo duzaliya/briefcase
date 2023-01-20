@@ -13,7 +13,7 @@
 git clone https://github.com/duzaliya/briefcase.git
 ```
 
-##### Перейдите в папку what_to_wear
+##### Перейдите в папку briefcase
 
 ```
 cd briefcase
